@@ -493,8 +493,8 @@ const styles = StyleSheet.create({
     alignItems: 'stretch',
   },
   node_b4e48199_1adc_49d8_83c6_e087804898c9: {
-    minHeight: 40,
     padding: 8,
+    minHeight: 40,
     justifyContent: 'flex-start',
     alignItems: 'center',
     flexWrap: 'nowrap',
@@ -505,9 +505,9 @@ const styles = StyleSheet.create({
   node_35d3163d_ef04_47c5_ba5b_6de9cf4cd598: {
     width: 36,
     height: 36,
+    minHeight: 36,
     borderRadius: 12,
     backgroundColor: '#EEF2FF',
-    minHeight: 36,
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
